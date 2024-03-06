@@ -1,0 +1,19 @@
+.footer{
+    background-color: rgba(216, 205, 205, 0.219);
+    justify-content: center;
+}
+p{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.a{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.img{
+   margin-left:500px ;
+}
